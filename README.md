@@ -1,4 +1,4 @@
-# Hi, I'm Tami 👋
+# Hi, I'm Thami 👋
 
 Passionate software developer with expertise across multiple technologies. Dedicated to writing clean, maintainable code and continuously expanding my technical knowledge.
 
