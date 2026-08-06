@@ -10,6 +10,7 @@ Security: JWT Authentication, Spring Security, Role-Based Access Control
 Tools & Platforms: Git, GitHub, GitLab, Docker, Maven, Linux (Ubuntu), CI/CD
 
 Methodologies: Object-Oriented Programming, Agile/Scrum, Test-Driven Development, Systems Analysis & Design
+
 Passionate software developer with expertise across multiple technologies. Dedicated to writing clean, maintainable code and continuously expanding my technical knowledge.
 
 ---
@@ -28,11 +29,7 @@ Passionate software developer with expertise across multiple technologies. Dedic
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
 
-#### **Web Development**
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 
 #### **DevOps & Tools**
 ![Docker](https://skillicons.dev/icons?i=docker)
