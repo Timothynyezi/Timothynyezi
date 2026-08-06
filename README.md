@@ -1,5 +1,8 @@
 # Hi, I'm Thami 👋
-
+Software engineering graduate with hands-on experience building backend systems in Java and C#. I enjoy solving
+problems through clean code and well-designed software, and I am looking for a junior backend developer role where
+I can grow while contributing to real-world projects. I bring strong communication skills, a collaborative mindset, and
+a genuine passion for technology.
 Passionate software developer with expertise across multiple technologies. Dedicated to writing clean, maintainable code and continuously expanding my technical knowledge.
 
 ---
