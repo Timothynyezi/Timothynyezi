@@ -1,9 +1,14 @@
 # Hi, I'm Thami 👋
-Programming Languages: Java, C#, Python, JavaScript, TypeScript
+Programming Languages: Java, C#, Python
+
 Backend & APIs: Spring Boot, ASP.NET Core, REST API Design, SignalR, WebSockets
+
 Databases: PostgreSQL, SQL, NoSQL, Database Design & Normalization
+
 Security: JWT Authentication, Spring Security, Role-Based Access Control
+
 Tools & Platforms: Git, GitHub, GitLab, Docker, Maven, Linux (Ubuntu), CI/CD
+
 Methodologies: Object-Oriented Programming, Agile/Scrum, Test-Driven Development, Systems Analysis & Design
 Passionate software developer with expertise across multiple technologies. Dedicated to writing clean, maintainable code and continuously expanding my technical knowledge.
 
