@@ -1,8 +1,10 @@
 # Hi, I'm Thami 👋
-Software engineering graduate with hands-on experience building backend systems in Java and C#. I enjoy solving
-problems through clean code and well-designed software, and I am looking for a junior backend developer role where
-I can grow while contributing to real-world projects. I bring strong communication skills, a collaborative mindset, and
-a genuine passion for technology.
+Programming Languages: Java, C#, Python, JavaScript, TypeScript
+Backend & APIs: Spring Boot, ASP.NET Core, REST API Design, SignalR, WebSockets
+Databases: PostgreSQL, SQL, NoSQL, Database Design & Normalization
+Security: JWT Authentication, Spring Security, Role-Based Access Control
+Tools & Platforms: Git, GitHub, GitLab, Docker, Maven, Linux (Ubuntu), CI/CD
+Methodologies: Object-Oriented Programming, Agile/Scrum, Test-Driven Development, Systems Analysis & Design
 Passionate software developer with expertise across multiple technologies. Dedicated to writing clean, maintainable code and continuously expanding my technical knowledge.
 
 ---
